@@ -1,0 +1,25 @@
+# ⛔ 액세스 토큰 — 절대 커밋 금지 (커밋되면 광고계정이 통째로 열린다)
+.token
+*.token
+token.txt
+
+# 회사별 설정 (setup_wizard.py 가 각자 만든다)
+config.json
+
+# 파이썬
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+._*
+__MACOSX/
+
+# 편집기
+.vscode/
+.idea/
+*.swp

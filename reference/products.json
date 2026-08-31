@@ -1,0 +1,11 @@
+[
+  {
+    "name": "제품A",
+    "url": "https://example.com/product/a",
+    "ad_url": "https://example.com/event/a"
+  },
+  {
+    "name": "제품B",
+    "url": "https://example.com/product/b"
+  }
+]
